@@ -26,8 +26,8 @@ public void displaydetails(){
 
 public class classAndObjectExample {
     public static void main(String[] args) {
-        Students students = new Students();
-        students.acceptingdetails();
-        students.displaydetails();
+        Students student1 = new Students();
+        student1.acceptingdetails();
+        student1.displaydetails();
     }
 }
