@@ -77,7 +77,7 @@ public class abstractDemo {
     public static void main(String[] args) {
 
         BankAccount.AccountName();
-        
+    
         ABCBank.Manager();
         SavingAccount save = new SavingAccount();
         save.BankName();
